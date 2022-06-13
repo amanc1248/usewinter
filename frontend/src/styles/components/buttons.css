@@ -1,0 +1,11 @@
+
+.signIn__register__button{
+    width: 100%;
+    background-color: #5E5DF0;
+    border-radius: 30px;
+    border:none;
+    height: 50px;
+    font-weight: 800;
+    font-size: 20px;
+    color: white;
+}
